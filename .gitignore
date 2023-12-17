@@ -3,3 +3,5 @@
 *.DS_Store
 *.npy
 *glove.6B.50d.txt
+Named Entity Recognition/model
+Named Entity Recognition/tokenizer
