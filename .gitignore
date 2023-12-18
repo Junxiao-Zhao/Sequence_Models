@@ -8,4 +8,5 @@ Named Entity Recognition/tokenizer
 Question Answering/model
 Question Answering/tokenizer
 Question Answering/results
+Embedding plus Positional encoding/glove
 *.arrow
