@@ -5,3 +5,7 @@
 *glove.6B.50d.txt
 Named Entity Recognition/model
 Named Entity Recognition/tokenizer
+Question Answering/model
+Question Answering/tokenizer
+Question Answering/results
+*.arrow
